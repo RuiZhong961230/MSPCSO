@@ -16,5 +16,8 @@ publisher={Springer},
 doi={https://doi.org/10.1007/s13042-026-03184-4 }  
 }  
 
+## Datasets and Libraries
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively, Deep learning models are provided by the Pytorch==2.1.2 library, and the coffee leaf disease diagnosis dataset is downloaded from https://www.kaggle.com/datasets/gauravduttakiit/coffee-leaf-diseases/code
+
 ## Contact
 If you have any questions, please don't hesitate to contact juanjuan[at]ecjtu.edu.cn and zhongrui[at]iic.hokudai.ac.jp.
