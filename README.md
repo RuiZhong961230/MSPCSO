@@ -1,4 +1,4 @@
-# Q-ENRIME
+# MSPCSO
 Multi-search pattern competitive swarm optimizer: performance investigation and application in coffee leaf disease diagnosis
 
 ## Abstract
